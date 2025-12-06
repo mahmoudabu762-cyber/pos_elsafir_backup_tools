@@ -1,0 +1,53 @@
+------------------------------ 
+تشغيل جديد: Sat 12/06/2025 18:41:26.25 
+نسخ منفصل: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_users.json 
+نسخ منفصل: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_usersating.json 
+نسخ مجمع: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06.json 
+تم العثور على usersating: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_usersating.json 
+تم إنشاء backup_result.json (مع تفاصيل إضافية) 
+تم إنشاء backup_result.json (مع حالة الرفع) 
+------------------------------ 
+تشغيل جديد: Sat 12/06/2025 18:44:27.17 
+WARNING: لم يتم العثور على usersating 
+تم إنشاء backup_result.json (مع تفاصيل إضافية) 
+تم إنشاء backup_result.json (مع حالة الرفع) 
+------------------------------ 
+تشغيل جديد: Sat 12/06/2025 18:45:01.20 
+WARNING: لم يتم العثور على usersating 
+تم إنشاء backup_result.json (مع تفاصيل إضافية) 
+تم إنشاء backup_result.json (مع حالة الرفع) 
+------------------------------ 
+تشغيل جديد: Sat 12/06/2025 18:47:35.30 
+WARNING: لم يتم العثور على usersating 
+تم إنشاء backup_result.json (مع تفاصيل إضافية) 
+تم إنشاء backup_result.json (مع حالة الرفع) 
+------------------------------ 
+تشغيل جديد: Sat 12/06/2025 18:48:06.94 
+نسخ منفصل: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_users.json 
+نسخ منفصل: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_usersating.json 
+نسخ مجمع: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06.json 
+تم العثور على usersating: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_usersating.json 
+تم إنشاء backup_result.json (مع تفاصيل إضافية) 
+تم إنشاء backup_result.json (مع حالة الرفع) 
+------------------------------ 
+تشغيل جديد: Sat 12/06/2025 18:49:06.23 
+WARNING: لم يتم العثور على usersating 
+تم إنشاء backup_result.json (مع تفاصيل إضافية) 
+------------------------------ 
+تشغيل جديد: Sat 12/06/2025 18:49:43.41 
+نسخ منفصل: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_users.json 
+نسخ منفصل: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_usersating.json 
+نسخ مجمع: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06.json 
+تم العثور على usersating: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_usersating.json 
+تم إنشاء backup_result.json (مع تفاصيل إضافية) 
+------------------------------ 
+تشغيل جديد: Sat 12/06/2025 19:04:42.62 
+WARNING: لم يتم العثور على usersating 
+تم إنشاء backup_result.json (مع تفاصيل إضافية) 
+------------------------------ 
+تشغيل جديد: Sat 12/06/2025 19:05:15.42 
+نسخ منفصل: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_users.json 
+نسخ منفصل: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_usersating.json 
+نسخ مجمع: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06.json 
+تم العثور على usersating: C:\Users\DELL\Downloads\�� ���\backup_2025-12-06_usersating.json 
+تم إنشاء backup_result.json (مع تفاصيل إضافية) 

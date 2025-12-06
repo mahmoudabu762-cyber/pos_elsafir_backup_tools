@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "WpPT6HYJiySplATScsMkke0FVz53",
+      "page": "POS.html",
+      "active": true,
+      "email": "info95200@gmail.com",
+      "online": false,
+      "branch": "فرع ابو سعيد- الدكتور",
+      "lastLogout": "2025-11-19T07:42:29.445Z",
+      "name": "حسين",
+      "role": "كاشير",
+      "lastLogin": "2025-11-19T07:42:14.985Z"
+    },
+    {
+      "id": "zyyF3KDTrUaBWdusngnGVRjqK672",
+      "online": true,
+      "name": "bahaa",
+      "lastLogin": "2025-12-06T07:09:01.981Z",
+      "email": "info95100@gmail.com",
+      "branch": "الفرع الرئيسى",
+      "active": true,
+      "page": "home.html",
+      "role": "مدير",
+      "lastLogout": "2025-12-06T07:09:01.129Z"
+    }
+  ],
+  "usersating": [
+    {
+      "id": "bahaa"
+    }
+  ]
+}

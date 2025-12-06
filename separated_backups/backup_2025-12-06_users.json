@@ -1,0 +1,26 @@
+[
+  {
+    "id": "WpPT6HYJiySplATScsMkke0FVz53",
+    "email": "info95200@gmail.com",
+    "role": "كاشير",
+    "page": "POS.html",
+    "active": true,
+    "lastLogin": "2025-11-19T07:42:14.985Z",
+    "online": false,
+    "lastLogout": "2025-11-19T07:42:29.445Z",
+    "name": "حسين",
+    "branch": "فرع ابو سعيد- الدكتور"
+  },
+  {
+    "id": "zyyF3KDTrUaBWdusngnGVRjqK672",
+    "email": "info95100@gmail.com",
+    "role": "مدير",
+    "name": "bahaa",
+    "lastLogin": "2025-12-06T07:09:01.981Z",
+    "online": true,
+    "active": true,
+    "lastLogout": "2025-12-06T07:09:01.129Z",
+    "page": "home.html",
+    "branch": "الفرع الرئيسى"
+  }
+]
